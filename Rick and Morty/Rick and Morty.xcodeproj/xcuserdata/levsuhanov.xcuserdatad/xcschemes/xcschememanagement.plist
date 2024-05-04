@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Rick and Morty.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>5D8574A52BE25ABD00A161C6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5D8574BE2BE25ABE00A161C6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5D8574C82BE25ABE00A161C6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
